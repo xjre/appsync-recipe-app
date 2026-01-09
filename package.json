@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "aws-appsync": "^3.0.2",
-    "aws-appsync-react": "^3.0.2",
+    "aws-appsync": "^4.1.10",
+    "aws-appsync-react": "^4.0.16",
     "glamor": "^2.20.40",
     "graphql-tag": "^2.10.3",
     "react": "^16.13.0",
